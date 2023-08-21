@@ -1,0 +1,12 @@
+jupyter
+folium
+geopandas
+glob2
+matplotlib
+numpy
+pandas
+rasterio
+shapely
+sentinelsat
+landsatxplore
+earthpy
